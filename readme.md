@@ -2,7 +2,7 @@
 A Arduino powered OLED display which display's the Hardware stats of a computer running a Python program
 
 ### How it works?
-The python program running on our computer collects and sends the Arduino the hardware statistics through Serial communication.
+The python program running on our computer collects and sends the Arduino, hardware statistics through Serial communication.
 
 ### Parts needed
 * An Arduino (Here, I used an Arduino nano)
