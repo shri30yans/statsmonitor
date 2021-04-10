@@ -22,5 +22,9 @@ The python program running on our computer collects and sends the Arduino the ha
     * Adafruit_SSD1306
     * ArduinoJson
 
-
-    
+* Wire Setup
+    Connections for Uno, Nano
+    * Vin >	5V
+    * GND >	GND
+    * SDA >  A4; 
+    * SCL > A5
